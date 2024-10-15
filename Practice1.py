@@ -43,6 +43,7 @@ Querying: You need to handle the query by fetching the marks for the queried stu
 
 Average Calculation: Use sum() to calculate the average of marks and print it with two decimal precision.
 
+Fixed Code:
 if __name__ == '__main__':
     n = int(input())  # Number of students
     student_marks = {}
